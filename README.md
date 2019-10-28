@@ -1,6 +1,6 @@
 # restaurant-management-system
-[this details are written here](https://github.com/rjarman/restaurant-management-system/blob/master/php/include/db.php)
-[sample database is here, you can use it instead of using the code given below](https://github.com/rjarman/restaurant-management-system/blob/master/sample-database/rms.sql)
+1. [this details are written here](https://github.com/rjarman/restaurant-management-system/blob/master/php/include/db.php)
+1. [sample database is here, you can use it instead of using the code given below](https://github.com/rjarman/restaurant-management-system/blob/master/sample-database/rms.sql)
 
 ## Database Description:
 * **Database Name:** 'rms'
